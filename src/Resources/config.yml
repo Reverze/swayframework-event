@@ -1,0 +1,4 @@
+framework:
+    component.init:
+        event:
+            controller: Sway\Component\Event\Init
